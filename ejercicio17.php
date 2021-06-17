@@ -39,6 +39,8 @@ if(isset($_GET['numero1'])&& isset($_GET['numero2'])){
 }else{
     echo "introduce valores validos";
 }
+echo "hola ";
+
 
 
 
