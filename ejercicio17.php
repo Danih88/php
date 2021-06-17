@@ -40,6 +40,8 @@ if(isset($_GET['numero1'])&& isset($_GET['numero2'])){
     echo "introduce valores validos";
 }
 echo "hola ";
+echo "prueba";
+
 
 
 
