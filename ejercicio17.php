@@ -41,6 +41,8 @@ if(isset($_GET['numero1'])&& isset($_GET['numero2'])){
 }
 echo "hola ";
 echo "prueba";
+echo "prueba2";
+
 
 
 
